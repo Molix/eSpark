@@ -32,7 +32,7 @@
                                     <color key="titleColor" red="1" green="0.41176470590000003" blue="0.031372549020000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="BYZ-38-t0r" kind="show" id="k0B-Td-0IU"/>
+                                    <segue destination="BYZ-38-t0r" kind="show" id="AB4-5Y-aBf"/>
                                 </connections>
                             </button>
                         </subviews>
